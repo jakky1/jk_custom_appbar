@@ -47,7 +47,8 @@ class JkAppBarSingleChildScrollView extends StatefulWidget {
 }
 
 class _JkAppBarSingleChildScrollView
-    extends State<JkAppBarSingleChildScrollView> with AutomaticKeepAliveClientMixin {
+    extends State<JkAppBarSingleChildScrollView>
+    with AutomaticKeepAliveClientMixin {
   final helper = priv__JkAppBarScrollableHelper();
 
   @override
