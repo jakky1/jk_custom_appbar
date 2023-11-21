@@ -76,7 +76,7 @@ var layout = JkAppBarLayout(
 ```
 var layout = JkAppBarLayout(
   ...
-  child: JkAppBarSingleChildScrollView.builder( // API are the same with SingleChildScrollView
+  child: JkAppBarSingleChildScrollView( // API are the same with SingleChildScrollView
     child: Column(
       children: List.generate(100, (index) => Text("Column $index")),
     ),
