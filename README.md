@@ -2,6 +2,8 @@
 
 Easy to use any custom widget as app bar / bottom bar. Support floating / pinned bars with scrolling behavior. Support in horizontal screen.
 
+<img src="https://github.com/jakky1/jk_custom_appbar/releases/download/screenshot/jk_appbar_vertical_demo.gif" style="width:200px;"/>
+
 ## Features
 
 - Support bottom bar / app bar.
